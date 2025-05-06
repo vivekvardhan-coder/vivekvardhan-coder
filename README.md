@@ -62,9 +62,9 @@
 ### 📫 Let’s Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/maddi-vivek-vardhan-reddy"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://twitter.com/yourtwitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/vivekvardhan-reddy"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:maddivivekvardhanreddy02@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://x.com/vivek_maddi"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </p>
 
